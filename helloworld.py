@@ -1,2 +1,1 @@
-#FEATURE
 print("helloworld!")
